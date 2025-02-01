@@ -1,16 +1,23 @@
 ## Hi I'm Mohamed Faizal 👋
 
-- 🌱 I’m currently diving deeper into Golang development.
-- 📈 Expanding my expertise in backend development and scalable systems.
-- ⚡ I enjoy tackling challenging logical problems and continuously improving my coding skills.
-- 🚀 Passionate about exploring new technologies and implementing them in real-world applications.
-- 💬 Always open to collaboration and excited about innovative project ideas!
+**Golang Developer | Backend Engineer | Technology Enthusiast**
+
+
+**🚀 About Me**
+
+  As a passionate **Golang developer** and **backend engineer**, I specialize in building **scalable**, **high-performance systems**. With a keen focus on **microservices architecture** and **cloud-native technologies**, I strive to create solutions that deliver long-term value in real-world applications.
+
+
+### **Areas of Expertise**
+- Mastering **Go** for performance optimization and building **highly concurrent systems**.
+- Designing **cloud-based architectures** using **AWS** and **Docker**.
+- Strengthening expertise in **distributed systems** and **scalable backend services**.
 
 **Connect with me:**
-- [Linkedin](URL)
+- [Linkedin](https://www.linkedin.com/in/mohamed-faizal-0a0331242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:faizalmohamed910@gmail.com)
 
-  ## Languages and Tools:
+## 🔍Skills & Technologies:
 <p align="left">
   <a href="https://golang.org/" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
@@ -30,6 +37,12 @@
   <a href="https://redis.io/" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
+       <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+   </a>
+   <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
+       <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+   </a>
   <a href="https://nginx.org/" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
   </a>
@@ -65,5 +78,15 @@
   </a>
 </p>
 
+## 📊 My GitHub Stats  
+
+### 🚀 Overall GitHub Activity  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedFaizalA&show_icons=true&include_all_commits=true&count_private=true&theme=radical)  
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedFaizalA&theme=highcontrast)  
+
+### 💻 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaizalA&layout=compact&theme=tokyonight)   
 
 
