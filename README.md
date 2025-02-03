@@ -83,8 +83,6 @@
 ### 🚀 Overall GitHub Activity  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedFaizalA&show_icons=true&include_all_commits=true&count_private=true&theme=radical)  
 
-### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedFaizalA&theme=highcontrast)  
 
 ### 💻 Most Used Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedFaizalA&layout=compact&theme=tokyonight)   
